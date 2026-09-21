@@ -61,8 +61,7 @@ We will also use material from:
 
 > Griffiths, T. L., Chater, N., & Tenenbaum, J. B. (Eds.). (2024). *Bayesian Models of Cognition: Reverse Engineering the Mind.* MIT Press.
 
-This book is referred to as ***BMC*** in the rest of the syllabus and is available online. The link will be posted soon.
- <!-- [here](https://tinyurl.com/5fftxbax). -->
+This book is referred to as ***BMC*** in the rest of the syllabus and is available online. The link is [here](https://mitpress.mit.edu/9780262049412/bayesian-models-of-cognition/).
 
 Many classes also use primary sources in cognitive science, which will be available as PDF files on Canvas. The optional readings are listed for your interest only, and provide a feel for the of the discipline.
 
