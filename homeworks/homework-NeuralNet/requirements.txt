@@ -1,0 +1,18 @@
+# Dependencies for Homework - Neural Networks (Parts B, C, D, E, F)
+#
+# Part A has no code (short-answer only, using the browser-based IAC
+# simulator) and needs no packages.
+#
+# From this folder, with the `ccm` environment activated:
+#     pip install -r requirements.txt
+#
+# Or, to only verify what you already have without installing anything:
+#     python -c "import numpy, scipy, matplotlib, torch, torchvision; print('all core deps importable')"
+
+numpy>=1.24
+scipy>=1.9            # scipy.cluster.hierarchy, scipy.spatial.distance
+matplotlib>=3.6
+torch>=2.0
+torchvision>=0.15
+notebook>=6.5
+ipykernel>=6.0
