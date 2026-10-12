@@ -61,7 +61,7 @@ We will also use material from:
 
 > Griffiths, T. L., Chater, N., & Tenenbaum, J. B. (Eds.). (2024). *Bayesian Models of Cognition: Reverse Engineering the Mind.* MIT Press.
 
-This book is referred to as ***BMC*** in the rest of the syllabus and is available online. The link is [here](https://mitpress.mit.edu/9780262049412/bayesian-models-of-cognition/).
+This book is referred to as ***BMC*** in the rest of the syllabus and is available online for free. The link is [here, but can load slowly!](https://direct.mit.edu/books/oa-monograph/6209/Bayesian-Models-of-CognitionReverse-Engineering).
 
 Many classes also use primary sources in cognitive science, which will be available as PDF files on Canvas. The optional readings are listed for your interest only, and provide a feel for the of the discipline.
 
@@ -244,7 +244,6 @@ Readings are available on Canvas under "Modules".
 ### Part III: Bayesian models
 
 **Wednesday, October 14 — Lecture 11: Bayesian models 1**
-- **Homework 3 is out.**
 - Griffiths, T. L. & Tenenbaum, J. B. (2024). Bayesian inference. *BMC*, Chapter 3.
 - Tenenbaum, J. B., & Griffiths, T. L. (2001). Generalization, similarity, and Bayesian inference. *Behavioral and Brain Sciences, 24*, 629–641.
 
@@ -256,6 +255,7 @@ Readings are available on Canvas under "Modules".
 **Precept week of Oct 19 and 21 — Fall Break, no precepts**
 
 **Monday, October 26 — Lecture 12: Bayesian models 2**
+- **Homework 3 is out.**
 - Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279-1285.
 - MacKay, D. (2003). Chapter 29: Monte Carlo Methods. In *Information Theory, Inference, and Learning Algorithms*.
 
@@ -271,7 +271,6 @@ Readings are available on Canvas under "Modules".
 - *Optional:* Kemp, C., & Tenenbaum, J. B. (2008). The discovery of structural form. Proceedings of the National Academy of Sciences, 105(31), 10687-10692.
 
 **Wednesday, November 4 — Lecture 15: Program induction and language of thought models**
-- **Homework 3 is due.**
 - Ghahramani, Z. (2015). Probabilistic machine learning and artificial intelligence. *Nature, 521*(7553), 452.
 - Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2014). Concepts in a probabilistic language of thought. Center for Brains, Minds and Machines (CBMM).
 - *Optional:* Lake, B. M., Salakhutdinov, R., & Tenenbaum, J. B. (2015). Human-level concept learning through probabilistic program induction. *Science, 350*(6266), 1332–1338.
@@ -280,6 +279,7 @@ Readings are available on Canvas under "Modules".
 - Bayesian models 2; HW 3 help
 
 **Monday, November 9 — Lecture 16: Unifying Bayesian models and neural networks**
+- **Homework 3 is due.**
 - Griffiths, T. L., Lake, B. M., McCoy, R. T., Pavlick, E., & Webb, T. W. (2025). *Whither symbols in the era of advanced neural networks?*Trends in Cognitive SCience.
 - *Optional:* Lake, B. M., Jagadish, A., & Jiang, G. (2026). *More accurate behavioral predictions with hybrid Bayesian-connectionist models.* arXiv preprint.
 - *Optional:* McCoy, R. T., & Griffiths, T. L. (2025). Modeling rapid language learning by distilling Bayesian priors into artificial neural networks. *Nature Communications, 16*, 4676.
