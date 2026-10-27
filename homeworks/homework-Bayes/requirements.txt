@@ -1,0 +1,16 @@
+# Dependencies for Homework - Bayesian Modeling (Parts A, B, C, D)
+#
+# From this folder, with the `ccm` environment activated:
+#     pip install -r requirements.txt
+#
+# Or, to only verify what you already have without installing anything:
+#     python -c "import numpy, scipy, matplotlib, pandas; print('all core deps importable')"
+
+numpy>=1.24
+pandas>=1.5          # Bayes-C joint probability tables
+scipy>=1.9            # scipy.special.logsumexp, scipy.stats
+matplotlib>=3.6
+notebook>=6.5
+ipykernel>=6.0
+
+gradescope-utils>=0.5.0  # Local autograder testing
