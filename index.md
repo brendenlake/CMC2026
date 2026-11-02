@@ -287,7 +287,6 @@ Readings are available on Canvas under "Modules".
 ### Part IV: Symbols and rules; historical foundations
 
 **Wednesday, November 11 — Lecture 17: Formal systems and propositional logic**
-- **Homework 4 is out.**
 - *AIMA4* or *AIMA3*, Section 7.4.
 - Haugeland, J. (1997). What is mind design? In J. Haugeland (Ed.) *Mind Design II: Philosophy, Psychology, Artificial Intelligence.* Cambridge, MA: MIT Press. (only pages 8–21)
 - *Optional:* Feldman, J. (2000). Minimization of Boolean complexity in human concept learning. *Nature, 407*, 630–633.
@@ -296,6 +295,7 @@ Readings are available on Canvas under "Modules".
 - Unifying Bayesian models and neural networks
 
 **Monday, November 16 — Lecture 18: Production systems and cognitive architectures**
+- **Homework 4 is out.**
 - Anderson, J. R. (1996). ACT: A simple theory of complex cognition. *American Psychologist, 51*, 355–365.
 - Newell, A., Rosenbloom, P. S., & Laird, J. E. (1989). Symbolic architectures for cognition. In M. I. Posner (Ed.), *Foundations of Cognitive Science*, 93–131. Cambridge, MA: MIT Press.
 - *Optional:* Newell, A., & Simon, H. (1956). The logic theory machine — A complex information processing system. *IRE Transactions on Information Theory, 2*, 61–79.
@@ -324,6 +324,7 @@ Readings are available on Canvas under "Modules".
 ### Part V: The End
 
 **Wednesday, December 2 — Lecture 22: Auto-experimentation in cognitive science (guest lecture by [Akshay Jagadish](https://akjagadish.github.io/))**
+- **Homework 4 is due.**
 
 **Precept week of Nov 30 and Dec 2**
 - Final exam review
