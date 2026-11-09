@@ -315,8 +315,7 @@ Readings are available on Canvas under "Modules".
 
 **Wednesday, November 25 — Thanksgiving break -- No class**
 
-**Precept week of Nov 23**
-- Symbolic models
+**NO Precept week of Nov 23 due to Thanksgiving**
 
 **Monday, November 30 — Lecture 21: Unifying symbols, probabilities, and networks**
 - TBD
