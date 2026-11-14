@@ -305,7 +305,7 @@ Readings are available on Canvas under "Modules".
 - Chomsky, N. (1957). *Syntactic Structures.* The Hague: Mouton. Pages 11–48.
 
 **Precept week of Nov 16 and 18**
-- HW 4 help
+- Make 24 Workshop: Coding a miniature production system
 
 **Monday, November 23 — Lecture 20: Learning and the poverty of the stimulus**
 - **Homework 4 is due.**
@@ -318,7 +318,7 @@ Readings are available on Canvas under "Modules".
 **NO Precept week of Nov 23 due to Thanksgiving**
 
 **Monday, November 30 — Lecture 21: Unifying symbols, probabilities, and networks**
-- TBD
+- HW 4 Review
 
 ### Part V: The End
 
