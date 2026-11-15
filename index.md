@@ -308,7 +308,6 @@ Readings are available on Canvas under "Modules".
 - Make 24 Workshop: Coding a miniature production system
 
 **Monday, November 23 — Lecture 20: Learning and the poverty of the stimulus**
-- **Homework 4 is due.**
 - Pinker, S. (1979). Formal models of language learning. *Cognition, 7*, 217–283. (only pages 217–234)
 - Johnson, K. (2004). Gold's theorem and cognitive science. *Philosophy of Science, 71*, 571–592.
 - *Optional:* Gold, E. M. (1967). Language identification in the limit. *Information and Control, 10*, 447–474.
