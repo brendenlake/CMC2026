@@ -316,8 +316,7 @@ Readings are available on Canvas under "Modules".
 
 **NO Precept week of Nov 23 due to Thanksgiving**
 
-**Monday, November 30 — Lecture 21: Unifying symbols, probabilities, and networks**
-- HW 4 Review
+**Monday, November 30 — Lecture 21: More symbols and rules**
 
 ### Part V: The End
 
