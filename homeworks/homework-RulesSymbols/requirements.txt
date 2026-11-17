@@ -1,0 +1,7 @@
+# Dependencies for Homework - Rules and Symbols (Parts A, B, C, D)
+#
+# From this folder, with the `ccm` environment activated:
+#     pip install -r requirements.txt
+numpy>=1.24
+notebook>=6.5
+ipykernel>=6.0
