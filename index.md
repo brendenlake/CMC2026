@@ -307,7 +307,7 @@ Readings are available on Canvas under "Modules".
 **Precept week of Nov 16 and 18**
 - Make 24 Workshop: Coding a miniature production system
 
-**Monday, November 23 — Lecture 20: Learning and the poverty of the stimulus**
+**Monday, November 23 — Lecture 20: Learning and the poverty of the stimulus 1** 
 - Pinker, S. (1979). Formal models of language learning. *Cognition, 7*, 217–283. (only pages 217–234)
 - Johnson, K. (2004). Gold's theorem and cognitive science. *Philosophy of Science, 71*, 571–592.
 - *Optional:* Gold, E. M. (1967). Language identification in the limit. *Information and Control, 10*, 447–474.
@@ -316,7 +316,7 @@ Readings are available on Canvas under "Modules".
 
 **NO Precept week of Nov 23 due to Thanksgiving**
 
-**Monday, November 30 — Lecture 21: More symbols and rules**
+**Monday, November 30 — Lecture 21: Learning and the poverty of the stimulus 2**
 
 ### Part V: The End
 
